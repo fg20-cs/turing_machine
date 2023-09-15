@@ -79,14 +79,3 @@ with open(file_name, "w") as file:
   s_s_one_condition(">", "h", "_", "5f", "2", file)
 
   s_s_one_condition(">", "*", "_", "2", "Accept", file)
-                    
-
-
-
-
-
-
-
-
-
-  
